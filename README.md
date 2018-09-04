@@ -7,6 +7,14 @@ I will put all the operation of database.
 
 and enter your password
 
+## Import database from external source in windows
+
+enter to database:
+
+``` source C:\LEARN\Sample sql\test_db\employees.sql ```
+
+
+
 ---
 ## Database Basic commands:
 
